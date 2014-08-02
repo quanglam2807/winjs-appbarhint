@@ -20,7 +20,10 @@ http://code.msdn.microsoft.com/windowsapps/AppBar-Hint-control-17e23dbf
 
 ###Example
 ```html:default.html
-    <div data-win-control="NhutQuang97.AppbarHint.WinJS" data-win-options="{appbarid: 'appbar', color:'#e51c23'}"></div>
-    <div id="appbar" data-win-control="WinJS.UI.AppBar">
-    </div>
+<!-- Appbar Hint Control / 'appbarid' property is required -->
+<div data-win-control="NhutQuang97.AppbarHint.WinJS" data-win-options="{appbarid: 'appbar', color:'#e51c23'}"></div>
+
+<!-- Appbar Control with same ID with 'appbarid' property -->
+<div id="appbar" data-win-control="WinJS.UI.AppBar">
+</div>
 ```
