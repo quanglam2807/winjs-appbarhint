@@ -3,6 +3,9 @@ winjs-appbarhint
 
 Windows 8 AppBar Hint control for WinJS.
 
+Screenshot and C# version of this AppBarHint control:
+http://code.msdn.microsoft.com/windowsapps/AppBar-Hint-control-17e23dbf
+
 ###Required references
 ```html:default.html
 <!-- You must add these references to your default.html -->
