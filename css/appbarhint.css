@@ -1,0 +1,9 @@
+.appbar-hint {
+    height: 15px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-image: url("../images/more_white.png");
+    background-position: calc(100% - 60px) -1px;
+    background-repeat: no-repeat;
+}
